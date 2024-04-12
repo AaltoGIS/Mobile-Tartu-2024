@@ -1,0 +1,22 @@
+# Following R packages are used by r5r or otherwise in the tutorial
+checkmate
+codetools
+concaveman
+data.table
+devtools
+geojsonio
+ggplot2
+lattice
+mapview
+osmdata
+patchwork
+r5r
+raster
+rjava
+sf
+sfheaders
+sp
+terra
+tidygeocoder
+tmap
+units

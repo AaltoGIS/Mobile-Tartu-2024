@@ -1,0 +1,49 @@
+name: base
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.11
+  - geopandas
+  - geopy
+  - jupyterlab
+  - jupyterlab-git
+  - mamba
+  - mapclassify
+  - matplotlib
+  - momepy
+  - openjdk=11.0
+  - osmnx
+  - owslib
+  - pandas<2.1.0
+  - pyogrio
+  - pysal
+  - r5py>=0.1.1.dev0
+  - r-checkmate
+  - r-codetools
+  - r-concaveman
+  - r-data.table
+  - r-devtools
+  - r-geojsonio
+  - r-ggplot2
+  - r-interp
+  - r-irkernel
+  - r-lattice
+  - r-mapview
+  - r-osmdata
+  - r-patchwork
+  - r-raster
+  - r-rjava
+  - r-sf
+  - r-sfheaders
+  - r-sp
+  - r-terra
+  - r-tidygeocoder
+  - r-tmap
+  - r-units
+  - pip
+  - pip:
+      - r5py.sampledata.helsinki>=0.1.1.dev0
+      - r5py.sampledata.sao_paulo>=0.1.1.dev0
+

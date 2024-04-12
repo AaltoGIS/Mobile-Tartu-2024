@@ -1,0 +1,7 @@
+myst_nb
+# Issues with building the page with newer theme: https://github.com/executablebooks/sphinx-book-theme/issues/729
+sphinx-book-theme==0.3.3
+sphinx
+sphinx-togglebutton
+sphinx-design
+sphinxnotes-strike
