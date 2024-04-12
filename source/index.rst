@@ -1,5 +1,3 @@
-In conjunction with `The 12th International Conference on Geographic Information Science <https://giscience2023.github.io/>`__:
-
 ------
 
 .. figure:: img/event_banner.png
