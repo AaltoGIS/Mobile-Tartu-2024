@@ -206,3 +206,9 @@ Contents
    presentations/r5r_advanced_features
    notebooks/r5py_demo.ipynb
    notebooks/r5r_demo.ipynb
+   notebooks/calculating-travel-time-matrices.ipynb
+   notebooks/spatial_network_analysis.ipynb
+   notebooks/travel-time-matrices.ipynb
+
+
+
