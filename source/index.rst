@@ -80,16 +80,6 @@ The workshop will take place from 1:00 pm to 5:00 pm on September 12th at Leeds 
 
 ------------
 
-Important dates
-===============
-
-- Short paper & abstract submission deadline: :strike:`July 7` **July 14, 2023**
-- Notification: August 4, 2023
-- Camera-ready deadline: August 18, 2023
-- Workshop: September 12, 2023
-
-------------
-
 Organization
 ============
 
@@ -106,67 +96,12 @@ Workshop chairs
         `🐦 <https://twitter.com/tenkahen>`__
 
 
-    .. grid-item-card:: Rafael Pereira
+    .. grid-item-card:: Subhrasankha Dey
         :text-align: center
 
-        Ipea, BR |br|
-        `🔗 <https://www.urbandemographics.org/>`__
-        `🐦 <https://twitter.com/UrbanDemog>`__
+        Aalto University, FI |br|
+        `🔗 <https://www.linkedin.com/in/subhrasankhadey/>`__
 
-
-    .. grid-item-card:: Christoph Fink
-        :text-align: center
-
-        Uni. Helsinki, FI |br|
-        `🔗 <https://christophfink.com/>`__
-        `🐦 <https://twitter.com/chrxf>`__
-
-    .. grid-item-card:: Grant McKenzie
-        :text-align: center
-
-        McGill University, CA |br|
-        `🔗 <https://grantmckenzie.com/>`__
-        `🐦 <https://twitter.com/grantdmckenzie>`__
-
-    .. grid-item-card:: Alessia Calafiore
-        :text-align: center
-
-        Uni. Edinburgh, UK |br|
-        `🔗 <https://aelissa.github.io/>`__
-        `🐦 <https://twitter.com/alel_domi>`__
-
-    .. grid-item-card:: Andrea Ballatore
-        :text-align: center
-
-        King's College London, UK |br|
-        `🔗 <https://aballatore.space/>`__
-        `🐦 <https://twitter.com/a_ballatore>`__
-
-    .. grid-item-card:: Vanessa Bastos
-        :text-align: center
-
-        Uni. Canterbury, NZ |br|
-        `🔗 <https://www.canterbury.ac.nz/science/contact-us/people/vanessa-da-silva-brum-bastos.html>`__
-        `🐦 <https://twitter.com/vanessabbastos>`__
-
-
-Program committee
------------------
-
-- Clio Andris, Georgia Tech
-- Victoria Fast, University of Calgary
-- Vanessa Frias-Martinez, University of Maryland
-- Song Gao, University of Wisconsin
-- Yingjie Hu, University at Buffalo
-- Krzysztof Janowicz, University of Vienna
-- Carsten Keßler, Bochum University of Applied Sciences
-- Jed Long, Western University
-- Trisalyn Nelson, University of California, Santa Barbara
-- Avipsa Roy, University of California, Irvine
-- Michael Szell, IT University of Copenhagen
-- Martin Tomko, University of Melbourne
-- Qunshan Zhao, University of Glasgow
-- Rui Zhu, University of Bristol
 
 
 ------------
