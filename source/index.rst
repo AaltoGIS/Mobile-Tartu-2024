@@ -13,40 +13,10 @@ This workshop aims at bringing to the forefront open scientific software, data-d
 
 ------------
 
-Participate
-===========
-
-We invite submissions of short research papers (1500-4000 words) or abstracts (200-500 words) that **describe novel open-source computational tools and methodological advancements** aligned with the general theme of the workshop of equitable and sustainable accessibility and mobility. All papers and abstracts will undergo peer-review with accepted papers being published online with a volume DOI (via the `Open Science Foundation <https://osf.io/>`__).
-
-Participants in this workshop are invited to extend their contributions for submission to the **special issue of Computers, Environment and Urban Systems** on `Equitable and Socially Sustainable Mobility <https://platial.science/si2023>`__.
-
-Submissions on a variety of topics are welcome including, but not limited to:
-
-- Spatial and equity analysis of accessibility
-- Mobility justice and sustainability
-- Open tools for mobility analysis
-- Equity considerations on micromobility and shared mobility
-- Sustainable mobility and gender
-- Accessibility and sustainable mobility for an ageing society
-- New forms of data for the analysis of inequalities and sustainable mobility
-- Data bias and sustainable mobility analysis
-- Exploring the relationship between accessibility and active travel
-- Travel modes and new forms of mobility data
-- Inequalities in walkability or bikeability
-- Equitable urban design
-- Sustainable urban vitality and urban vibrancy
-
-Submission guidelines
----------------------
-
-Submissions of short research papers or abstract in a PDF format should be directly uploaded to the `easychair platform <https://easychair.org/cfp/EASM-OTESAMA23>`__ and should follow the `Lecture Notes in Computer Science <https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj>`__ format.
-
-------------
-
 Program
 =======
 
-The workshop will take place from 1:00 pm to 5:00 pm on September 12th at Leeds University Business School, Maurice Keyworth building.
+The workshop will take place from .....
 
 *This is preliminary timeline, changes to the schedule are possible.*
 
@@ -83,7 +53,7 @@ The workshop will take place from 1:00 pm to 5:00 pm on September 12th at Leeds 
 Organization
 ============
 
-Workshop chairs
+Workshop instructors
 ---------------
 
 .. grid:: 3
@@ -130,7 +100,6 @@ Contents
    :caption: Presentations
 
    presentations/welcome_to_workshop
-   presentations/short_talks
 
 .. toctree::
    :maxdepth: 1
@@ -141,9 +110,9 @@ Contents
    presentations/r5r_advanced_features
    notebooks/r5py_demo.ipynb
    notebooks/r5r_demo.ipynb
-   notebooks/calculating-travel-time-matrices.ipynb
    notebooks/spatial_network_analysis.ipynb
-   notebooks/travel-time-matrices.ipynb
+   notebooks/calculating-travel-time-matrices.ipynb
+   
 
 
 
