@@ -131,14 +131,14 @@ Contents
    info/License-terms
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Presentations
 
    presentations/welcome_to_workshop
 
 .. toctree::
    :maxdepth: 1
-   :caption: Hands-on Tutorial
+   :caption: Tutorials
 
    presentations/intro_to_tutorial_and_accessibility
    presentations/r5py_and_r5r_tools
