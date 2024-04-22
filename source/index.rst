@@ -118,10 +118,11 @@ Please contact Henrikki Tenkanen at henrikki.tenkanen@aalto.fi with any workshop
 
 .. |br| raw:: html
 
-      <br>
+      <be>
+
 
 Contents
-=======
+------------
 
 .. toctree::
    :maxdepth: 1
