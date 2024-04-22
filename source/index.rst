@@ -121,7 +121,7 @@ Please contact Henrikki Tenkanen at henrikki.tenkanen@aalto.fi with any workshop
       <br>
 
 Contents
---------
+=======
 
 .. toctree::
    :maxdepth: 1
@@ -149,6 +149,7 @@ Contents
 .. toctree::
    :maxdepth: 1
    :caption: Tutorials
+
    notebooks/spatial_network_analysis.ipynb
    notebooks/calculating-travel-time-matrices.ipynb
    
