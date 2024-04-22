@@ -2,8 +2,9 @@
 
 .. figure:: img/event_banner.png
 
-Mobility data and network analysis tools for understanding sustainable mobility
 ====================
+Mobility data and network analysis tools for understanding sustainable mobility
+
 ------------
 
 Workshop Description
