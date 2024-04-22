@@ -25,36 +25,72 @@ Program
 
 The workshop will take place from .....
 
-*This is preliminary timeline, changes to the schedule are possible.*
+*This is a preliminary timeline, changes to the schedule are possible.*
 
 .. list-table::
-    :widths: 2 8
-    :header-rows: 1
-    :stub-columns: 1
+    :widths: 4 4 8
+    :header-rows: 2
+    :stub-columns: 3
     :align: left
 
-    * - **Time**
-      -
-    * - 13:00-13:15
+    * - **Day 1** 
+      - **Time** 
+      - **Agenda**    
+    * - 11/06
+      - 14:00-14:15
       - **Welcome** |br| *Henrikki Tenkanen*
-    * - 13:15-13:30
+    * - 11/06
+      - 14:15-15:00
       - `Equity Analyses of Transport Futures. <https://doi.org/10.17605/OSF.IO/SJ3VX>`__ |br| *Steven Farber & Willem Klumpenhouwer*
-    * - 13:30-13:45
-      - `Land-Use Transport-Interaction modelling for sustainable mobility in metropolitan areas. <https://osf.io/mtcu6>`__ |br| *Fulvio Lopane, Eleni Kalantzi, Richard Milton & Michael Batty*
-    * - 13:45-14:00
-      - `Developing Flexible and Interoperable Multimodal Urban Models and Tools for Integration of Urban and Public Transport Planning. <https://osf.io/5j2uz>`__ |br| *Flavia Lopes, Jorge Gil & Ioanna Stavroulaki*
-    * - 14:00-14:15
+    * - 11/06
+      - 15:00-15:15
       - **Break**
-    * - 14:15-14:30
-      - `TransitAccess: A Python, GTFS-based transit index incorporating centrality and spatio-temporal accessibility. <https://osf.io/cjk7w>`__ |br| *Florian Nachtigall & Felix Creutzig*
-    * - 14:30-14:45
-      - `Towards Just Neighbourhoods: Leveraging Geospatial Data Science to Understand Night-Time Public Transport Variability in British Cities. <https://osf.io/4nehr>`__ |br| *J. Rafael Verduzco-Torres, Nick Bailey & David McArthur*
-    * - 14:45-15:00
+    * - 11/06
+      - 15:15-16:00
+      - **Hands-on tutorial:** Using `r5py <https://r5py.readthedocs.io/en/stable/>`__ or `r5r <https://ipeagit.github.io/r5r/>`__ and related tools for large-scale spatial accessibility analysis with Python or R. |br| *Henrikki Tenkanen*
+    * - **Day 2** 
+      -  
+      - 
+    * - 12/06
+      - 09:30-10:00
+      - **Day 2 Parallel workshop starts** |br| *Henrikki Tenkanen*
+    * - 12/06
+      - 10:00-10:45
+      - `contents. <https://doi.org/10.17605/OSF.IO/SJ3VX>`__ |br| *Authors*
+    * - 12/06
+      - 10:45-11:00
       - **Break**
-    * - 15:00-17:00
-      - **Hands-on tutorial:** Using `r5py <https://r5py.readthedocs.io/en/stable/>`__ or `r5r <https://ipeagit.github.io/r5r/>`__ and related tools for large-scale spatial accessibility analysis with Python or R. |br| *Henrikki Tenkanen, Rafael H.M. Pereira, Christoph Fink & Matti Pönkänen*
-
-
+    * - 12/06
+      - 11:00-12:00
+      - **Hands-on tutorial:** Using `r5py <https://r5py.readthedocs.io/en/stable/>`__ or `r5r <https://ipeagit.github.io/r5r/>`__ and related tools for large-scale spatial accessibility analysis with Python or R. |br| *Henrikki Tenkanen*
+    * - 12/06
+      - 12:00-13:00
+      - **Lunch**   
+    * - 12/06
+      - 13:00-14:00
+      - **Mid-result presentations and feedback**
+    * - 12/06
+      - 14:00-16:00
+      - **Unassisted work time with workshop tasks**
+    * - **Day 3** 
+      -  
+      - 
+    * - 13/06
+      - 14:40-15:15
+      - **PhD Workshop presentations** 
+    * - 13/06
+      - 15:15-15:20
+      - **Break**
+    * - **Day 4** 
+      -  
+      - 
+    * - 14/06
+      - 09:40-10:00
+      - **PhD School internal reflections** 
+    * - 14/06
+      - 10:45-11:00
+      - **Break**
+    
 ------------
 
 Organization
@@ -63,7 +99,7 @@ Organization
 Workshop instructors
 ---------------
 
-.. grid:: 3
+.. grid:: 2
 
     .. grid-item-card:: Henrikki Tenkanen
         :text-align: center
