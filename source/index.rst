@@ -28,9 +28,9 @@ The workshop will take place from .....
 *This is a preliminary timeline, changes to the schedule are possible.*
 
 .. list-table::
-    :widths: 4 4 8
-    :header-rows: 2
-    :stub-columns: 3
+    :widths: 1 6 8
+    :header-rows: 1
+    :stub-columns: 1
     :align: left
 
     * - **Day 1** 
@@ -91,7 +91,7 @@ The workshop will take place from .....
       - 10:45-11:00
       - **Break**
     
-------------
+|
 
 Organization
 ============
@@ -110,7 +110,6 @@ Organization
         `🔗 <https://www.linkedin.com/in/subhrasankhadey/>`__
 
 
-------------
 
 Contact
 =======
