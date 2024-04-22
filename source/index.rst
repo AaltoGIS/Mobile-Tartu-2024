@@ -28,7 +28,7 @@ The workshop will take place from .....
 *This is a preliminary timeline, changes to the schedule are possible.*
 
 .. list-table::
-    :widths: 3 5 8
+    :widths: 3 3 8
     :header-rows: 1
     :stub-columns: 1
     :align: left
@@ -153,7 +153,3 @@ Contents
 
    notebooks/spatial_network_analysis.ipynb
    notebooks/calculating-travel-time-matrices.ipynb
-   
-
-
-
