@@ -2,10 +2,13 @@
 
 .. figure:: img/event_banner.png
 
-------
+------------
 Mobility data and network analysis tools for understanding sustainable mobility
 ====================
+
 Workshop Description
+====================
+
 The aim of the workshop is to introduce quantitative approaches to analyse sustainable mobility and accessibility using mobile phone data and network analysis tools. The workshop aims to improve participants’ skills in analysing travel-related carbon emissions using open-source Python libraries. In the workshop, we will use various geospatial data sources from the Helsinki Metropolitan area, including app-based mobile phone data, street networks, GTFS public transport schedules, and carbon emission data. The participants can compare how spatial accessibility and travel-related carbon emissions differ by different transport modes. Furthermore, the participants can link socio-ecological accessibility metrics to population data, making it possible to explore socio-environmental inequalities in urban space. We discuss the benefits and shortcomings of various types of mobility/population/accessibility data for studying sustainable mobility. The workshop ends with a discussion on the role of publicly available spatial data and tools for planning equitable and sustainable cities and mobility systems.
 
 
