@@ -1,4 +1,4 @@
-Introduction to tutorial and accessibility modelling
+Introduction to tutorial
 ====================================================
 
 .. raw:: html
