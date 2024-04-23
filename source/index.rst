@@ -151,5 +151,6 @@ Contents
    :maxdepth: 1
    :caption: Tutorials
 
+   notebooks/Intro_to_data.ipynb
    notebooks/spatial_network_analysis.ipynb
    notebooks/calculating-travel-time-matrices.ipynb
