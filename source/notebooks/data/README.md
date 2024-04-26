@@ -5,6 +5,11 @@ Details about the bundled datasets.
 
 ## Helsinki
 
+###  Helsinki_25April.osm.pbf
+A sample dataset of central Helsinki region representing OpenStreetMap data in protocolbuffer binary format (PBF),
+which was obtained from [Geofabrik](https://download.geofabrik.de/europe/finland.html).
+The data is licensed under the [Open Data Commons Open Database License (ODbL)](https://www.openstreetmap.org/copyright).
+
 ### `GTFS.zip`
 
 General Transit Feed Specification ([GTFS](https://developers.google.com/transit/gtfs/reference))
@@ -69,3 +74,7 @@ The data is licensed under the [Open Data Commons Open Database License (ODbL)](
 A regular, hexagonally distributed, point grid data set over the extent of São Paulo, created by
 the authors of [r5r](https://github.com/ipeaGIT/r5r/tree/master/r-package/inst/extdata/spo). This data
 set is used in some of the tests.
+
+# About the "LCA_gCO2_per_pkm_by_transport_mode.csv" CSV-file
+
+The CSV file consists of GHG emissions per passenger-kilometer (g CO<sub>2</sub>/pkm) by transport modes derived from the mentioned LCA tool by ITF. The columns represent the different transport modes and the rows represent the GHG emissions. The GHG emissions of the transport modes have been divided into four separate components: vehicle component, fuel component, infrastructure component and operational services. The explanations of the acronyms (in the transport modes names) are: BEV = battery electric vehicle; HEV = hybrid electric vehicle; ICE = internal combustion engine; FCEV = fuel cell electric vehicle; PHEV = plug-in hybrid electric vehicle. 
