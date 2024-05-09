@@ -154,3 +154,9 @@ Contents
    notebooks/T0_Intro_to_data.ipynb
    notebooks/T1_spatial_network_analysis_SingleOD.ipynb
    notebooks/T2_calculating-travel-time-matrices_and_GHG_factors.ipynb
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Workshop assignment
+
+   presentations/Workshop_Assignment.rst
