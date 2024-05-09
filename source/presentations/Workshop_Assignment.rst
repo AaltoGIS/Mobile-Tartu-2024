@@ -12,11 +12,10 @@ Starting your final assignment on Github
         .. figure:: Joining-a-team.png
            :width: 400px
 			
-		.. toctree::
-		   :maxdepth: 1
-		   :caption: Workshop assignment
-
-		   Workshop_Assignment.ipynb
+	.. toctree::
+	   :maxdepth: 1
+	   :caption: Workshop assignment
+		Workshop_Assignment_notebook.ipynb
 
     Before starting the final assignment, **you need to communicate with your group members, who will create the team** and give it an appropriate name (e.g. "Group-1" if you were named as Group 1),
     so that **others can find and join the team**. After this process, your team will have a shared repository for the final assignment and you can all access it
