@@ -96,7 +96,7 @@ The workshop will take place from .....
 Organization
 ============
 
-.. grid:: **Workshop instructors**
+.. grid:: 2
 
     .. grid-item-card:: Henrikki Tenkanen
         :text-align: center
