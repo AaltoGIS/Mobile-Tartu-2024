@@ -95,21 +95,8 @@ The workshop will take place from .....
 
 Organization
 ============
-
-.. grid:: 2
-
-    .. grid-item-card:: Henrikki Tenkanen
-        :text-align: center
-        Aalto University, FI |br|
-        `🔗 <https://htenkanen.org/>`__
-        `🐦 <https://twitter.com/tenkahen>`__
-
-    .. grid-item-card:: Subhrasankha Dey
-        :text-align: center
-        Aalto University, FI |br|
-        `🔗 <https://www.linkedin.com/in/subhrasankhadey/>`__
-
-
+- Henrikki Tenkanen, Aalto University, FI
+- Subhrasankha Dey, Aalto University, FI 
 
 Contact
 =======
