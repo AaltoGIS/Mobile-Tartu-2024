@@ -32,9 +32,10 @@ extensions = [
     'sphinx_togglebutton',
     'IPython.sphinxext.ipython_console_highlighting',
     'IPython.sphinxext.ipython_directive',
-    'myst_nb',
+    #'myst_nb',
     "sphinx_design",
     "sphinxnotes.strike",
+    "nbsphinx",
 ]
 
 # List of patterns, relative to source directory, that match files and
