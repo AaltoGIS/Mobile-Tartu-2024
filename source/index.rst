@@ -30,7 +30,7 @@ The workshop will take place in Kavastu outside of Tartu.
 
 - PhD Workshop presentations
 
-**Friday 14.6 - 9:00-10:00
+**Friday 14.6 - 9:00-10:00**
 
 - PhD School Reflections
 
