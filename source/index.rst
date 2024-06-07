@@ -122,7 +122,7 @@ Contents
    :maxdepth: 1
    :caption: Tutorials
 
-   notebooks/Intro_to_data.ipynb
+   notebooks/Intro-to-data.ipynb
    notebooks/T1_spatial_network_analysis_SingleOD.ipynb
    notebooks/T2_calculating-travel-time-matrices_and_GHG_factors.ipynb
 
