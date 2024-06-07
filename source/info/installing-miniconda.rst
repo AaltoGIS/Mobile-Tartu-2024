@@ -115,7 +115,7 @@ After downloading the environment file, run the following commands on the same f
 If you don't know how to navigate between different folders, check these short tutorials for `terminal <https://riptutorial.com/terminal/example/26023/basic-navigation-commands>`_ and `command prompt (Windows) <https://riptutorial.com/cmd/example/8646/navigating-in-cmd>`_.
 The commands below work similarly in all operating systems where you have Miniconda (or Anaconda) installed:
 
-1. **Create the Python & R environment** based on the file that you downloaded by using a terminal (or command prompt)
+1. **Create the Python environment** based on the file that you downloaded by using a terminal (or command prompt)
 and executing the following command in the directory where you downloaded the `.yml` file:
 
 .. code-block::
