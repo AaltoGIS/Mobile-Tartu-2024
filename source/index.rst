@@ -15,78 +15,28 @@ This workshop aims at bringing to the forefront open scientific software, data-d
 Program
 =======
 
-The workshop will take place from .....
+The workshop will take place in Kavastu outside of Tartu.
 
-*This is a preliminary timeline, changes to the schedule are possible.*
+**Tuesday 11.6 - 14:00-16:00**
 
-.. list-table::
-    :widths: 3 3 8
-    :header-rows: 1
-    :stub-columns: 1
-    :align: left
+- Welcome and introduction to the Workshop
+- Tutorials for r5py and carbon emission computations
 
-    * - **Day 1** 
-      - **Time** 
-      - **Agenda**    
-    * - 11/06
-      - 14:00-14:15
-      - **Welcome** |br| *Henrikki Tenkanen*
-    * - 11/06
-      - 14:15-15:00
-      - `Equity Analyses of Transport Futures. <https://doi.org/10.17605/OSF.IO/SJ3VX>`__ |br| *Steven Farber & Willem Klumpenhouwer*
-    * - 11/06
-      - 15:00-15:15
-      - **Break**
-    * - 11/06
-      - 15:15-16:00
-      - **Hands-on tutorial:** Using `r5py <https://r5py.readthedocs.io/en/stable/>`__ or `r5r <https://ipeagit.github.io/r5r/>`__ and related tools for large-scale spatial accessibility analysis with Python or R. |br| *Henrikki Tenkanen*
-    * - **Day 2** 
-      -  
-      - 
-    * - 12/06
-      - 09:30-10:00
-      - **Day 2 Parallel workshop starts** |br| *Henrikki Tenkanen*
-    * - 12/06
-      - 10:00-10:45
-      - `contents. <https://doi.org/10.17605/OSF.IO/SJ3VX>`__ |br| *Authors*
-    * - 12/06
-      - 10:45-11:00
-      - **Break**
-    * - 12/06
-      - 11:00-12:00
-      - **Hands-on tutorial:** Using `r5py <https://r5py.readthedocs.io/en/stable/>`__ or `r5r <https://ipeagit.github.io/r5r/>`__ and related tools for large-scale spatial accessibility analysis with Python or R. |br| *Henrikki Tenkanen*
-    * - 12/06
-      - 12:00-13:00
-      - **Lunch**   
-    * - 12/06
-      - 13:00-14:00
-      - **Mid-result presentations and feedback**
-    * - 12/06
-      - 14:00-16:00
-      - **Unassisted work time with workshop tasks**
-    * - **Day 3** 
-      -  
-      - 
-    * - 13/06
-      - 14:40-15:15
-      - **PhD Workshop presentations** 
-    * - 13/06
-      - 15:15-15:20
-      - **Break**
-    * - **Day 4** 
-      -  
-      - 
-    * - 14/06
-      - 09:40-10:00
-      - **PhD School internal reflections** 
-    * - 14/06
-      - 10:45-11:00
-      - **Break**
-    
-|
+**Wednesday 12.6 - 9:30-15:00**
+
+- Working time with data and Python tools
+
+**Thursday 13.6 - 14:40-15:15**
+
+- PhD Workshop presentations
+
+**Friday 14.6 - 9:00-10:00**
+
+- PhD School Reflections
 
 Organization
 ============
+
 - Henrikki Tenkanen, Aalto University, FI
 - Subhrasankha Dey, Aalto University, FI 
 
