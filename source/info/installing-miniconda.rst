@@ -65,8 +65,8 @@ Install Miniconda 3 and add it to system path using Terminal:
     # Add following line at the end of the file and save (EDIT ACCORDING YOUR INSTALLATION PATH)
     export PATH=$PATH:/PATH_TO_MINICONDA/miniconda3/bin:/PATH_TO_MINICONDA/miniconda3/lib/python3.11/site-packages
 
-Install the environment for Python or R
----------------------------------------
+Install the environment for Python
+----------------------------------
 
 Installing various GIS packages in Python can be sometimes a bit tricky due to various dependencies
 between the packages. Sometimes an older version of the package, or even an older Python version might be required for a
@@ -108,8 +108,8 @@ Download and create the environment for Python
 We have prepared a ready-made environment file for you (called ``environment.yml``). You can download the file from the link below. The same file can be used with all operating systems
 (on the download page: righ-click the ``Raw`` button -> And press ``Save link as ..``):
 
-- `DOWNLOAD Python for Windows | MacOS | Linux  <https://github.com/r5py/GIScience_2023/blob/master/ci/environment.yml>`__
-- List of needed packages for R users: `the list of required R packages <https://github.com/r5py/GIScience_2023/blob/master/ci/r-packages.txt>`__
+- `DOWNLOAD Python for Windows | MacOS | Linux  <https://github.com/AaltoGIS/Mobile-Tartu-2024/blob/master/ci/environment.yml>`__
+- List of needed packages for R users: `the list of required R packages <https://github.com/AaltoGIS/Mobile-Tartu-2024/blob/master/ci/r-packages.txt>`__
 
 After downloading the environment file, run the following commands on the same folder where you downloaded it.
 If you don't know how to navigate between different folders, check these short tutorials for `terminal <https://riptutorial.com/terminal/example/26023/basic-navigation-commands>`_ and `command prompt (Windows) <https://riptutorial.com/cmd/example/8646/navigating-in-cmd>`_.
