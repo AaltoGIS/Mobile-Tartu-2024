@@ -110,9 +110,11 @@ Contents
    info/installing-miniconda
    info/License-terms
 
- ..   .. toctree::
-       :maxdepth: 1
-       :caption: Presentations
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Presentations
+
        presentations/welcome_to_workshop
        presentations/intro_to_tutorial_and_accessibility
        presentations/r5py_and_r5r_tools
@@ -128,3 +130,4 @@ Contents
        :maxdepth: 1
        :caption: Workshop assignment
        presentations/Workshop_Assignment.rst
+
