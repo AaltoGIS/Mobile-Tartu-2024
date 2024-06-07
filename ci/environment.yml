@@ -9,7 +9,6 @@ dependencies:
   - geopy
   - h3-py=3.7.7
   - jupyterlab
-  - jupyterlab-git
   - mamba
   - mapclassify
   - matplotlib
