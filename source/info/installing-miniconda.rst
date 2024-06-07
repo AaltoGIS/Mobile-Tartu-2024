@@ -1,14 +1,7 @@
-Install Python & R + libraries
-==============================
+Install Python libraries
+========================
 
-.. note::
-
-    **The installation procedures used here are targeted for a use-case when you want to run Python and R side-by-side running Jupyter Notebooks**.
-    Hence, the instructions provided here differ from how you would typically install R packages when using e.g. R-Studio.
-
-    Note: If you are using R, it is probably easier if you just install the required packages directly in R-Studio using ``install.packages()`` -function.
-
-The purpose of this page is to help you to install Python and R including the required libraries for them
+The purpose of this page is to help you to install Python including the required libraries of this workshop
 into your own computer for the use of this tutorial.
 **We highly recommend using** `Miniconda <https://docs.conda.io/en/latest/miniconda.html>`_ to install libraries (especially Python libraries).
 Miniconda can be used to install libraries for Python, R and Julia languages. It comes by default with Python and a small number of essential packages.
@@ -72,8 +65,8 @@ Install Miniconda 3 and add it to system path using Terminal:
     # Add following line at the end of the file and save (EDIT ACCORDING YOUR INSTALLATION PATH)
     export PATH=$PATH:/PATH_TO_MINICONDA/miniconda3/bin:/PATH_TO_MINICONDA/miniconda3/lib/python3.11/site-packages
 
-Install the environment for Python & R
---------------------------------------
+Install the environment for Python
+----------------------------------
 
 Installing various GIS packages in Python can be sometimes a bit tricky due to various dependencies
 between the packages. Sometimes an older version of the package, or even an older Python version might be required for a
@@ -109,30 +102,20 @@ After installing `mamba`, the main steps for creating and using a conda environm
 2. activate the environment
 3. start using the environment (e.g. launch the JupyterLab and start coding, see below)
 
-.. warning::
-
-    The following might not install the R-environment properly on Windows (Python environment should work just fine).
-
-    In case you are using Windows and are interested in using R for your analyses, we recommend:
-
-    - installing the environment using `Windows Subsystem for Linux (WSL) <https://learn.microsoft.com/en-us/windows/wsl/about>`__, or
-    - installing the required R-packages (see `this list <https://github.com/r5py/GIScience_2023/blob/master/ci/r-packages.txt>`__) as you would do normally in R Studio (``install.packages(...)``). In this case, install also `Java OpenJDK 11 <https://jdk.java.net/java-se-ri/11>`__ to your computer.
-
-
-Download and create the environment for Python & R
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Download and create the environment for Python
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 We have prepared a ready-made environment file for you (called ``environment.yml``). You can download the file from the link below. The same file can be used with all operating systems
 (on the download page: righ-click the ``Raw`` button -> And press ``Save link as ..``):
 
-- `DOWNLOAD Python+R for Windows | MacOS | Linux  <https://github.com/r5py/GIScience_2023/blob/master/ci/environment.yml>`__
-- Alternatively for R users: `the list of required R packages <https://github.com/r5py/GIScience_2023/blob/master/ci/r-packages.txt>`__
+- `DOWNLOAD Python for Windows | MacOS | Linux  <https://github.com/AaltoGIS/Mobile-Tartu-2024/blob/master/ci/environment.yml>`__
+- List of needed packages for R users: `the list of required R packages <https://github.com/AaltoGIS/Mobile-Tartu-2024/blob/master/ci/r-packages.txt>`__
 
 After downloading the environment file, run the following commands on the same folder where you downloaded it.
 If you don't know how to navigate between different folders, check these short tutorials for `terminal <https://riptutorial.com/terminal/example/26023/basic-navigation-commands>`_ and `command prompt (Windows) <https://riptutorial.com/cmd/example/8646/navigating-in-cmd>`_.
 The commands below work similarly in all operating systems where you have Miniconda (or Anaconda) installed:
 
-1. **Create the Python & R environment** based on the file that you downloaded by using a terminal (or command prompt)
+1. **Create the Python environment** based on the file that you downloaded by using a terminal (or command prompt)
 and executing the following command in the directory where you downloaded the `.yml` file:
 
 .. code-block::
