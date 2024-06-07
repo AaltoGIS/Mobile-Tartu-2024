@@ -110,24 +110,21 @@ Contents
    info/installing-miniconda
    info/License-terms
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Presentations
+ ..   .. toctree::
+       :maxdepth: 1
+       :caption: Presentations
+       presentations/welcome_to_workshop
+       presentations/intro_to_tutorial_and_accessibility
+       presentations/r5py_and_r5r_tools
 
-   presentations/welcome_to_workshop
-   presentations/intro_to_tutorial_and_accessibility
-   presentations/r5py_and_r5r_tools
+  ..  .. toctree::
+       :maxdepth: 1
+       :caption: Tutorials
+       notebooks/Intro-to-data.ipynb
+       notebooks/T1_spatial_network_analysis_SingleOD.ipynb
+       notebooks/T2_calculating-travel-time-matrices_and_GHG_factors.ipynb
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Tutorials
-
-   notebooks/Intro-to-data.ipynb
-   notebooks/T1_spatial_network_analysis_SingleOD.ipynb
-   notebooks/T2_calculating-travel-time-matrices_and_GHG_factors.ipynb
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Workshop assignment
-
-   presentations/Workshop_Assignment.rst
+..    .. toctree::
+       :maxdepth: 1
+       :caption: Workshop assignment
+       presentations/Workshop_Assignment.rst
