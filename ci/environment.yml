@@ -7,6 +7,7 @@ dependencies:
   - python=3.11
   - geopandas
   - geopy
+  - h3-py=3.7.7
   - jupyterlab
   - jupyterlab-git
   - mamba
