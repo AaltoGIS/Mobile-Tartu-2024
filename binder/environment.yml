@@ -7,6 +7,7 @@ dependencies:
   - python=3.11
   - geopandas
   - geopy
+  - h3-py=3.7.7
   - jupyterlab
   - jupyterlab-git
   - mamba
@@ -17,6 +18,7 @@ dependencies:
   - osmnx
   - owslib
   - pandas<2.1.0
+  - pyrosm
   - pyogrio
   - pysal
   - r5py>=0.1.1.dev0
