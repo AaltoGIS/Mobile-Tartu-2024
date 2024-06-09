@@ -1,3 +1,5 @@
+.. figure:: img/Sustainable_mobility_banner.png
+
 Mobility data and network analysis tools for understanding sustainable mobility
 ===============================================================================
 
