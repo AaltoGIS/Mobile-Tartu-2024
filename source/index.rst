@@ -65,7 +65,6 @@ Contents
    :maxdepth: 1
    :caption: Presentations
 
-   presentations/welcome_to_workshop
    presentations/intro_to_tutorial_and_accessibility
    presentations/r5py_and_r5r_tools
 
