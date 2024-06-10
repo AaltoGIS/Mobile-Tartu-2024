@@ -1,8 +1,9 @@
+.. figure:: img/Sustainable_mobility_banner.png
+
 Mobility data and network analysis tools for understanding sustainable mobility
 ===============================================================================
 
 The aim of the workshop is to introduce quantitative approaches to analyse sustainable mobility and accessibility using mobile phone data and network analysis tools. The workshop aims to improve participants’ skills in analysing travel-related carbon emissions using open-source Python libraries. In the workshop, we will use various geospatial data sources from the Helsinki Metropolitan area, including app-based mobile phone data, street networks, GTFS public transport schedules, and carbon emission data. The participants can compare how spatial accessibility and travel-related carbon emissions differ by different transport modes. Furthermore, the participants can link socio-ecological accessibility metrics to population data, making it possible to explore socio-environmental inequalities in urban space. We discuss the benefits and shortcomings of various types of mobility/population/accessibility data for studying sustainable mobility. The workshop ends with a discussion on the role of publicly available spatial data and tools for planning equitable and sustainable cities and mobility systems.
-
 
 Open scientific software and collaboration by coding have become important drivers for advancing Geospatial Data Science, and science in general. Open scientific tools and sharing analytical workflows with computational notebooks promote openness, collaboration, transparency and reproducibility, by making it easy for others to access and run the same analyses. This is essential not only for validating research results, but also for allowing scientists to build upon each other's work more efficiently, which can lead to faster progress and breakthroughs in a wide range of fields.
 
@@ -19,8 +20,8 @@ The workshop will take place in Kavastu outside of Tartu.
 
 **Tuesday 11.6 - 14:00-16:00**
 
-- Welcome and introduction to the Workshop
-- Tutorials for r5py and carbon emission computations
+- Welcome and introduction to the Sustainable Mobility modelling
+- Tutorials for carbon emission computations using Python
 
 **Wednesday 12.6 - 9:30-15:00**
 
@@ -60,24 +61,24 @@ Contents
    info/installing-miniconda
    info/License-terms
 
-
 .. toctree::
    :maxdepth: 1
    :caption: Presentations
 
-       presentations/welcome_to_workshop
-       presentations/intro_to_tutorial_and_accessibility
-       presentations/r5py_and_r5r_tools
+   presentations/intro_to_tutorial_and_accessibility
+   presentations/r5py_and_r5r_tools
 
-  ..  .. toctree::
-       :maxdepth: 1
-       :caption: Tutorials
-       notebooks/Intro-to-data.ipynb
-       notebooks/T1_spatial_network_analysis_SingleOD.ipynb
-       notebooks/T2_calculating-travel-time-matrices_and_GHG_factors.ipynb
+.. toctree::
+   :maxdepth: 1
+   :caption: Tutorials
 
-..    .. toctree::
-       :maxdepth: 1
-       :caption: Workshop assignment
-       presentations/Workshop_Assignment.rst
+   notebooks/Intro-to-data.ipynb
+   notebooks/T1_spatial_network_analysis_SingleOD.ipynb
+   notebooks/T2_calculating-travel-time-matrices_and_GHG_factors.ipynb
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Workshop assignment
+
+   presentations/Workshop_Assignment.rst
 

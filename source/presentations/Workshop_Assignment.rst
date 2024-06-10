@@ -1,27 +1,18 @@
-Starting your final assignment on Github
-========================================
+Instructions
+============
 
-.. important::
+In the Notebooks and the associated website, we have provided various datasets and tutorials for you that demonstrate how it is possible
+to estimate **the environmental costs** of access and mobility in the Helsinki Region. The datasets include information about:
 
-    **Note regarding the Final Assignment**: This assignment is a **group assignment**, i.e. when you accept the Github Classroom
-    below, it is possible for you to i) **create a team** OR ii) **join to an existing team**.
+- The number of users that travel between specific locations in Helsinki Region
+- The travel times by car and public transport between specific locations
+- The associated GHG emissions by car and public transport between specific locations
 
-    .. admonition:: You should see something like this (click to open)
-        :class: dropdown
+In addition to these attributes, we have provided you Point of Interest data derived from OvertureMaps database that show the locations of specific services
+in Helsinki Region.
 
-        .. figure:: Joining-a-team.png
-           :width: 400px
-			
-	.. notebook:: Workshop_Assignment_notebook.ipynb
-		
-    Before starting the final assignment, **you need to communicate with your group members, who will create the team** and give it an appropriate name (e.g. "Group-1" if you were named as Group 1),
-    so that **others can find and join the team**. After this process, your team will have a shared repository for the final assignment and you can all access it
-    with your Github accounts.
+During the workshop **the target is to work in small teams and analyze these datasets from a perspective that you find interesting**.
+The datasets allow you to investigate various aspects of mobility and compare different travel modes and locations to each other (see "Introduction to Data" section/Notebook) and it is your task to invent
+an interesting question that you want investigate based on this data.
 
-.. admonition:: Start your final assignment
-
-    **Start your final assignment by**:
-
-    - **accepting the** `GitHub Classroom <https://classroom.github.com/a/sAbubeNF>`__ **for the final work**.
-
-    After you have your repository for the group in GitHub, start doing the programming using CSC Notebook environment.
+Based on your analyses, **you should create a simple presentation where you present what you have found out**.
