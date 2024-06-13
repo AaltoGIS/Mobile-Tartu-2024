@@ -4,9 +4,10 @@ channels:
   - conda-forge
 
 dependencies:
-  - python=3.11
+  - python=3.11.0
   - geopandas
   - geopy
+  - h3
   - h3-py=3.7.7
   - jupyterlab
   - mamba
@@ -15,6 +16,7 @@ dependencies:
   - momepy
   - openjdk
   - osmnx
+  - overturemaps
   - owslib
   - pandas<2.1.0
   - pyogrio
